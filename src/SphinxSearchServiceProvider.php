@@ -1,4 +1,5 @@
-<?php namespace MrCue\LaravelSphinx;
+<?php 
+namespace MrCue\LaravelSphinx;
 
 class SphinxSearchServiceProvider extends \Illuminate\Support\ServiceProvider
 {
